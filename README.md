@@ -2,8 +2,6 @@
 
 #### **(rn-vertical-slider)**
 
-###### A vertical Slider for React Native written entirely in javascript. Support this project with a ★ on [**Github**](https://github.com/sacmii/rn-vertical-slider).
-
 ## ✨Features
 
 - 📝 Completely written in Typescript
@@ -16,7 +14,7 @@
 - To add this slider to your project :
 
 ```
-npm install rn-vertical-slider
+npm install rnverticalslider
 ```
 
 ## 🎨 Usage
