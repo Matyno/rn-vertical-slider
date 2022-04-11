@@ -14,7 +14,7 @@
 - To add this slider to your project :
 
 ```
-npm install rnverticalslider
+npm install npm i rn-vertical-slider-matyno
 ```
 
 ## 🎨 Usage
